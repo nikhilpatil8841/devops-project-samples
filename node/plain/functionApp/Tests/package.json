@@ -6,8 +6,8 @@
     "name": "nijoy"
   },
   "dependencies": {
-    "gulp": "^3.9.1",
-    "mocha": "^5.2.0",
+    "gulp": "^4.0.0",
+    "mocha": "^9.2.2",
     "mocha-junit-reporter": "^1.18.0"
   },
   "scripts": {
